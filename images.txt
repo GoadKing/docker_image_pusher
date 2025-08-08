@@ -1,1 +1,2 @@
-intelanalytics/ipex-llm-serving-xpu:0.8.3-b21
+# intelanalytics/ipex-llm-serving-xpu:0.8.3-b21
+searxng/searxng:2025.6.10-8888d71
