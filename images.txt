@@ -6,4 +6,5 @@
 # ghcr.io/firecrawl/firecrawl
 # ghcr.io/firecrawl/playwright-service:latest
 # redis:alpine
-docker.io/library/node:18-slim
+# docker.io/library/node:18-slim
+python
