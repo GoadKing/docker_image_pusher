@@ -3,4 +3,5 @@
 # lmsysorg/sglang:dev
 # ghcr.io/sunmh207/ai-codereview-gitlab:1.3.14
 # docker.io/library/node:16
-ghcr.io/firecrawl/firecrawl
+# ghcr.io/firecrawl/firecrawl
+ghcr.io/firecrawl/playwright-service:latest
