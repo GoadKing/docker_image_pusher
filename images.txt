@@ -7,4 +7,5 @@
 # ghcr.io/firecrawl/playwright-service:latest
 # redis:alpine
 # docker.io/library/node:18-slim
-python
+# python
+gpustack/gpustack
