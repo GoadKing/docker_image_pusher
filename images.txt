@@ -8,4 +8,5 @@
 # redis:alpine
 # docker.io/library/node:18-slim
 # python
-gpustack/gpustack
+# gpustack/gpustack
+vllm/vllm-openai:latest
